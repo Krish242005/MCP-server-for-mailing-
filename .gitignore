@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+token.send-only.json
+*.log
